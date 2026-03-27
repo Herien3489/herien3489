@@ -28,14 +28,24 @@ Apasionado por crear soluciones escalables y elegantes con tecnologías modernas
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Herien3489&show_icons=true&count_private=true&theme=github_dark&hide_rank=true&include_all_commits=true&token=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)
+<!-- Stats generales -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Herien3489&show_icons=true&count_private=true&theme=github_dark&hide_rank=false&include_all_commits=true&token=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)
 
+<!-- Top lenguajes -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Herien3489&layout=compact&theme=github_dark&token=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)
 
 <br>
 
+<!-- Streak y Trophies -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Herien3489&theme=github_dark)  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Herien3489&theme=flat&margin-w=5&margin-h=5)
+
+<!-- Contribution Graph -->
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Herien3489&theme=react-dark&hide_border=true)
+
+<!-- Repos totales y Followers -->
+![Repositorios](https://img.shields.io/badge/Repositorios-??-blue?style=for-the-badge)  
+![Followers](https://img.shields.io/badge/Followers-??-green?style=for-the-badge)
 
 </div>
 
@@ -59,19 +69,9 @@ Stack: ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&lo
 
 ---
 
-## 🔥 Métricas Adicionales
-
-- **Commits diarios promedio:**  
-![Commits per day](https://github-readme-streak-stats.herokuapp.com/?user=Herien3489&theme=github_dark&hide_border=false)  
-
-- **Contribuciones anuales:**  
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Herien3489&theme=react-dark&hide_border=true)
-
----
-
 ## 🌐 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eli-no%C3%A9-herrera-lor%C3%ADa-691949235/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eli-no%C3%A9-herrera-lor%C3%ADa-691949235/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eli@example.com)
 
 ---
