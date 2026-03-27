@@ -1,8 +1,8 @@
 # 👋 Hola, soy Eli Herrera
 
-![Banner](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) <!-- Puedes reemplazar por tu propio banner -->
+![Banner](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) <!-- Banner animado opcional -->
 
-Soy **Ingeniero Desarrollador FullStack** y **Arquitecto de Software**.  
+**Ingeniero Desarrollador FullStack | Arquitecto de Software**  
 Apasionado por crear soluciones elegantes y escalables con tecnologías modernas.
 
 ---
@@ -22,38 +22,40 @@ Apasionado por crear soluciones elegantes y escalables con tecnologías modernas
 
 ---
 
+## 📊 Dashboard de GitHub
+
+| Métrica | Visual |
+|---------|--------|
+| **Commits Totales** | ![Commits](https://github-readme-stats.vercel.app/api?username=eliherrera&show_icons=true&count_private=true&theme=dark&hide_rank=true&include_all_commits=true) |
+| **Repositorios** | ![Repos](https://github-readme-stats.vercel.app/api?username=eliherrera&show_icons=true&theme=dark&hide_rank=true&count_private=true) |
+| **Streak** | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=eliherrera&theme=dark) |
+| **Lenguajes Top** | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliherrera&layout=compact&theme=dark) |
+
+---
+
+## 💻 Actividad Reciente
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=eliherrera&theme=react-dark&hide_border=true)
+
+---
+
 ## 📂 Proyectos Destacados
 
-### [Mediixa API](https://github.com/eliherrera/mediixa-api)
-API para plataforma SaaS de clínicas, con NestJS, TypeScript y MariaDB.  
-🔹 **Stack:** NestJS, TypeScript, MariaDB, Docker
+| Proyecto | Descripción | Stack |
+|----------|------------|-------|
+| [Mediixa API](https://github.com/eliherrera/mediixa-api) | API para plataforma SaaS de clínicas | NestJS, TypeScript, MariaDB, Docker |
+| [Portfolio](https://github.com/eliherrera/portfolio) | Portafolio web personal | Vue, Tailwind, JavaScript |
 
-### [Portal Web Personal](https://github.com/eliherrera/portfolio)
-Mi portafolio web creado con Vue.js y Tailwind.  
-🔹 **Stack:** Vue, Tailwind, JavaScript
-
-*(Agrega más proyectos aquí con GIFs o screenshots si deseas)*
+*(Agrega más proyectos aquí con GIFs o screenshots para más efecto visual)*
 
 ---
 
-## 📊 Mis Métricas de GitHub
+## 🌐 Redes y Contacto
 
-| 🔹 Commits Totales | 🔹 Pull Requests | 🔹 Issues | 🔹 Repos Contribuidos |
-|-------------------|-----------------|-----------|---------------------|
-| ![Eli's Commits](https://github-readme-stats.vercel.app/api?username=eliherrera&show_icons=true&count_private=true&hide_title=true&hide_rank=true&show_icons=true&theme=radical&include_all_commits=true) | ![PRs](https://img.shields.io/badge/Pull%20Requests-XX-blue?style=for-the-badge) | ![Issues](https://img.shields.io/badge/Issues-XX-red?style=for-the-badge) | ![Repos](https://img.shields.io/badge/Repos-XX-green?style=for-the-badge) |
-
-| 🔹 Lenguajes Top | 🔹 Streak | 🔹 Contribuciones Año |
-|-----------------|-----------|---------------------|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliherrera&layout=compact&theme=radical) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=eliherrera&theme=radical) | ![Contribuciones](https://github-readme-stats.vercel.app/api?username=eliherrera&show_icons=true&theme=radical&count_private=true) |
-
----
-
-## 📫 Contáctame
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eli%20No%C3%A9%20Herrera-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eli-no%C3%A9-herrera-lor%C3%ADa-691949235/)
-[![Instagram](https://img.shields.io/badge/Instagram-@im_noahhl-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_noahhl/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eli%20No%C3%A9%20Herrera-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eli-no%C3%A9-herrera-lor%C3%ADa-691949235/)  
+[![Instagram](https://img.shields.io/badge/Instagram-@im_noahhl-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_noahhl/)  
 ✉️ Email: eli@example.com
 
 ---
 
-> "Construir software es crear soluciones elegantes a problemas reales."  
+> "Construir software es crear soluciones elegantes a problemas reales."
