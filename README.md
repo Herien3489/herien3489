@@ -1,4 +1,4 @@
-# 👋 Hola, soy Eli Herrera
+# Hola, soy Eli Herrera
 
 ![Banner](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) <!-- Banner animado opcional -->
 
