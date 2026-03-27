@@ -1,7 +1,6 @@
-## Hi there 👋
 # 👋 Hola, soy Eli Herrera
 
-![Banner](assets/banner.gif) <!-- Opcional: un banner creativo -->
+![Banner](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) <!-- Puedes reemplazar por tu propio banner -->
 
 Soy **Ingeniero Desarrollador FullStack** y **Arquitecto de Software**.  
 Apasionado por crear soluciones elegantes y escalables con tecnologías modernas.
@@ -33,14 +32,19 @@ API para plataforma SaaS de clínicas, con NestJS, TypeScript y MariaDB.
 Mi portafolio web creado con Vue.js y Tailwind.  
 🔹 **Stack:** Vue, Tailwind, JavaScript
 
-*(Puedes añadir más proyectos aquí con GIFs o screenshots)*
+*(Agrega más proyectos aquí con GIFs o screenshots si deseas)*
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📊 Mis Métricas de GitHub
 
-![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliherrera&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliherrera&layout=compact&theme=radical)
+| 🔹 Commits Totales | 🔹 Pull Requests | 🔹 Issues | 🔹 Repos Contribuidos |
+|-------------------|-----------------|-----------|---------------------|
+| ![Eli's Commits](https://github-readme-stats.vercel.app/api?username=eliherrera&show_icons=true&count_private=true&hide_title=true&hide_rank=true&show_icons=true&theme=radical&include_all_commits=true) | ![PRs](https://img.shields.io/badge/Pull%20Requests-XX-blue?style=for-the-badge) | ![Issues](https://img.shields.io/badge/Issues-XX-red?style=for-the-badge) | ![Repos](https://img.shields.io/badge/Repos-XX-green?style=for-the-badge) |
+
+| 🔹 Lenguajes Top | 🔹 Streak | 🔹 Contribuciones Año |
+|-----------------|-----------|---------------------|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliherrera&layout=compact&theme=radical) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=eliherrera&theme=radical) | ![Contribuciones](https://github-readme-stats.vercel.app/api?username=eliherrera&show_icons=true&theme=radical&count_private=true) |
 
 ---
 
@@ -49,3 +53,7 @@ Mi portafolio web creado con Vue.js y Tailwind.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eli%20No%C3%A9%20Herrera-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eli-no%C3%A9-herrera-lor%C3%ADa-691949235/)
 [![Instagram](https://img.shields.io/badge/Instagram-@im_noahhl-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_noahhl/)
 ✉️ Email: eli@example.com
+
+---
+
+> "Construir software es crear soluciones elegantes a problemas reales."  
