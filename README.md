@@ -16,8 +16,15 @@ Apasionado por crear soluciones escalables y elegantes con tecnologías modernas
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliherrera&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&include_all_commits=true" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliherrera&layout=compact&theme=tokyonight" alt="Top Languages" width="45%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=eliherrera&show_icons=true&count_private=true&theme=radical&hide_rank=true&include_all_commits=true" alt="GitHub Stats" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliherrera&layout=compact&theme=radical" alt="Top Languages" width="48%">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eliherrera&theme=radical" alt="GitHub Streak" width="48%">
+<img src="https://github-profile-trophy.vercel.app/?username=eliherrera&theme=radical" alt="Trophies" width="48%">
+
 </div>
 
 ---
@@ -37,6 +44,16 @@ Stack: ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&log
 [Ver en GitHub](https://github.com/eliherrera/portfolio)
 
 </div>
+
+---
+
+## 🔥 Métricas Adicionales
+
+- **Commits diarios promedio:** ![Commits per day](https://github-readme-streak-stats.herokuapp.com/?user=eliherrera&theme=radical&hide_border=false)  
+- **Repositorios públicos:** ![Repos count](https://img.shields.io/badge/Public%20Repos-?style=for-the-badge&color=2bbc8a)  
+- **Lenguajes más usados:** ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliherrera&layout=compact&theme=radical)  
+- **Contribuciones en el último año:**  
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=eliherrera&theme=react-dark&hide_border=true)
 
 ---
 
