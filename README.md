@@ -28,13 +28,14 @@ Apasionado por crear soluciones escalables y elegantes con tecnologías modernas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Herien3489&show_icons=true&count_private=true&theme=github_dark&hide_rank=true&include_all_commits=true" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herien3489&layout=compact&theme=github_dark" width="45%"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Herien3489&show_icons=true&count_private=true&theme=github_dark&hide_rank=true&include_all_commits=true&token=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)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Herien3489&layout=compact&theme=github_dark&token=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)
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Herien3489&theme=github_dark" width="45%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Herien3489&theme=flat&margin-w=5&margin-h=5" width="45%"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Herien3489&theme=github_dark)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Herien3489&theme=flat&margin-w=5&margin-h=5)
 
 </div>
 
