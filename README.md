@@ -28,25 +28,8 @@ Apasionado por crear soluciones escalables y elegantes con tecnologías modernas
 
 <div align="center">
 
-<!-- Stats generales -->
-<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Herien3489&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=1a1a1a&title_color=e0e0e0&text_color=9e9e9e&icon_color=bdbdbd" />
-<!-- Top lenguajes -->
-<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herien3489&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=e0e0e0&text_color=9e9e9e" />
-
-<br>
-
-<!-- Streak -->
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Herien3489&hide_border=true&background=1a1a1a&ring=9e9e9e&fire=bdbdbd&currStreakNum=e0e0e0&sideNums=e0e0e0&currStreakLabel=bdbdbd&sideLabels=9e9e9e&dates=757575" />
-
-<br>
-
-<!-- Trophies -->
-<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Herien3489&theme=onedark&no-frame=true&no-bg=true&margin-w=5&margin-h=5" />
-
-<br>
-
-<!-- Contribution Graph -->
-<img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Herien3489&bg_color=1a1a1a&color=bdbdbd&line=9e9e9e&point=e0e0e0&area=true&area_color=555555&hide_border=true" />
+<!-- Panel completo generado por lowlighter/metrics (ver .github/workflows/metrics.yml) -->
+<img alt="GitHub Metrics" src="./github-metrics.svg" width="100%" />
 
 <br>
 
