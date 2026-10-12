@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Enfoque">
+  <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#1a1a1a"/>
+  <text x="25" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="18" font-weight="600" fill="#e0e0e0">Enfoque</text>
+  <text x="25" y="84" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="16" fill="#e0e0e0">Arquitectura de software</text>
+  <text x="25" y="114" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="16" fill="#e0e0e0">Desarrollo FullStack</text>
+  <text x="25" y="144" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="16" fill="#e0e0e0">APIs y SaaS escalables</text>
+  <text x="25" y="176" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" fill="#757575">Soluciones elegantes a problemas reales</text>
+</svg>
