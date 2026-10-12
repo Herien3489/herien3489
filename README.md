@@ -37,9 +37,9 @@ Apasionado por crear soluciones escalables y elegantes con tecnologías modernas
 </p>
 
 <p align="center">
-  <a href="https://github.com/Herien3489/mediixa-api"><img width="32%" alt="Mediixa API" src="https://github-readme-stats.vercel.app/api/pin/?username=Herien3489&repo=mediixa-api&hide_border=true&bg_color=1a1a1a&title_color=e0e0e0&text_color=9e9e9e&icon_color=bdbdbd" /></a>
-  <img width="32%" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Herien3489&theme=onedark&no-frame=true&no-bg=true&column=3&row=2&margin-w=4&margin-h=4" />
-  <img width="32%" alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Herien3489&bg_color=1a1a1a&color=bdbdbd&line=9e9e9e&point=e0e0e0&area=true&area_color=555555&hide_border=true&height=200" />
+  <a href="https://github.com/Herien3489/mediixa-api"><img width="32%" alt="Mediixa API" src="./assets/project-card.svg" /></a>
+  <img width="32%" alt="Enfoque" src="./assets/focus-card.svg" />
+  <img width="32%" alt="Contribuciones" src="https://ghchart.rshah.org/9e9e9e/Herien3489" />
 </p>
 
 ---
