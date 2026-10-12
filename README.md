@@ -41,13 +41,6 @@ Apasionado por crear soluciones escalables y elegantes con tecnologías modernas
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Herien3489&theme=github_dark)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Herien3489&theme=flat&margin-w=5&margin-h=5)
 
-<!-- Contribution Graph -->
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Herien3489&theme=react-dark&hide_border=true)
-
-<!-- Repos totales y Followers -->
-![Repositorios](https://img.shields.io/badge/Repositorios-??-blue?style=for-the-badge)
-![Followers](https://img.shields.io/badge/Followers-??-green?style=for-the-badge)
-
 </div>
 
 ---
