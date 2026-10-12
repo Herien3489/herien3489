@@ -37,6 +37,9 @@ Apasionado por crear soluciones escalables y elegantes con tecnologías modernas
 
 <br>
 
+<!-- Streak y Trophies -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Herien3489&theme=github_dark)
+
 </div>
 
 ---
